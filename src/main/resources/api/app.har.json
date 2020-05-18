@@ -1,0 +1,378 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [],
+    "entries": [
+      {
+        "startedDateTime": "2020-05-18T03:56:56.332Z",
+        "time": 115.77200000010635,
+        "request": {
+          "method": "POST",
+          "url": "https://work.weixin.qq.com/api/devtools/devhandler.php?tid=41&access_token=TzZ4dAyRr5fyvtaaqmP1wBtuS0SVc5LeaKmDL0O3W7rEc0Oc3emrXiOR2YHmrRHDxYc8CMzm6TdcLjnuiZIKnXHJK8_ZRpIHYf7gUA2zvIl3CRQThBSauGytoZ8m0iU_w2AOrd2LPnH8sfXrRsKG2n2WBczeLZ_KR7Lc6qDAGJ1AMDrc9AfDUYkz3Tlw4Hw5nnCif_dhIB1wC3-E6S4-0w&agentid=1000002&f=json",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": ":method",
+              "value": "POST"
+            },
+            {
+              "name": ":authority",
+              "value": "work.weixin.qq.com"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": ":path",
+              "value": "/api/devtools/devhandler.php?tid=41&access_token=TzZ4dAyRr5fyvtaaqmP1wBtuS0SVc5LeaKmDL0O3W7rEc0Oc3emrXiOR2YHmrRHDxYc8CMzm6TdcLjnuiZIKnXHJK8_ZRpIHYf7gUA2zvIl3CRQThBSauGytoZ8m0iU_w2AOrd2LPnH8sfXrRsKG2n2WBczeLZ_KR7Lc6qDAGJ1AMDrc9AfDUYkz3Tlw4Hw5nnCif_dhIB1wC3-E6S4-0w&agentid=1000002&f=json"
+            },
+            {
+              "name": "content-length",
+              "value": "0"
+            },
+            {
+              "name": "accept",
+              "value": "application/json, text/javascript, */*; q=0.01"
+            },
+            {
+              "name": "sec-fetch-dest",
+              "value": "empty"
+            },
+            {
+              "name": "x-requested-with",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
+            },
+            {
+              "name": "origin",
+              "value": "https://work.weixin.qq.com"
+            },
+            {
+              "name": "sec-fetch-site",
+              "value": "same-origin"
+            },
+            {
+              "name": "sec-fetch-mode",
+              "value": "cors"
+            },
+            {
+              "name": "referer",
+              "value": "https://work.weixin.qq.com/api/devtools/devtool.php"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "accept-language",
+              "value": "zh-CN,zh;q=0.9"
+            },
+            {
+              "name": "cookie",
+              "value": "RK=KUAx9dxIMX; pgv_pvi=8875356160; eas_sid=x1g5H7U8i5M5y307T3Y5t5y6D1; tvfe_boss_uuid=5d06322362ae0633; ied_qq=o1007005809; ptcz=64baea446e47da2099061fdb64e8c392490de6bdeb01e3862837f8126cdf605e; pgv_pvid=60178608; wwrtx.i18n_lan=zh; Hm_lvt_9364e629af24cb52acc78b43e8c9f77d=1589211920; _ga=GA1.2.450382358.1589211920; _gid=GA1.2.1306027155.1589211920; luin=o1007005809; lskey=00010000bc872060f5c4268597a1bcdd927defbc876b8814900e802931585041934b0371b839c49025d20c82; wwrtx.ref=sites; wwrtx.refid=02378637; ww_rtkey=9815042591; wxpay.vid=1688852717941380; wxpay.corpid=1970325072135883; wwrtx.d2st=a1065792; wwrtx.sid=HVT5CzAJi5KYlv5fj0n7pso3nbv1cT7DUv6ycdEhr1UoTVn4980Z0Qhhk6tjYRG3; wwrtx.ltype=1; wwrtx.vst=f_Xztmw2pts3BHMEY-yLB2UAiV26hAdUwwu3cRh4c8IUlDfve1AM1R1hkcZHQVKWzAp5CmLU3VP-XbRY_pto69lLos-ey8EHWHJtbGqJzl6ii0pzKF1Kd7rhha6WvPHpl3kGqeF-EhfGlnqh9qxjyu7EnpZz1RGZYrnno5nokbCLffJtAv4njz-qGcD08IdANkXq-skFJDNAHI7xkLpRL8UndkBWQdS8KQ9tDUxSa5eiaVwn1RE3WXvR9duVP2eobpdBw4YhaJC8H3Jt16IXQQ; wwrtx.vid=1688852717941380; wwrtx.logined=true"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "tid",
+              "value": "41"
+            },
+            {
+              "name": "access_token",
+              "value": "TzZ4dAyRr5fyvtaaqmP1wBtuS0SVc5LeaKmDL0O3W7rEc0Oc3emrXiOR2YHmrRHDxYc8CMzm6TdcLjnuiZIKnXHJK8_ZRpIHYf7gUA2zvIl3CRQThBSauGytoZ8m0iU_w2AOrd2LPnH8sfXrRsKG2n2WBczeLZ_KR7Lc6qDAGJ1AMDrc9AfDUYkz3Tlw4Hw5nnCif_dhIB1wC3-E6S4-0w"
+            },
+            {
+              "name": "agentid",
+              "value": "1000002"
+            },
+            {
+              "name": "f",
+              "value": "json"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "RK",
+              "value": "KUAx9dxIMX",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "pgv_pvi",
+              "value": "8875356160",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "eas_sid",
+              "value": "x1g5H7U8i5M5y307T3Y5t5y6D1",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "tvfe_boss_uuid",
+              "value": "5d06322362ae0633",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "ied_qq",
+              "value": "o1007005809",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "ptcz",
+              "value": "64baea446e47da2099061fdb64e8c392490de6bdeb01e3862837f8126cdf605e",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "pgv_pvid",
+              "value": "60178608",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.i18n_lan",
+              "value": "zh",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "Hm_lvt_9364e629af24cb52acc78b43e8c9f77d",
+              "value": "1589211920",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "_ga",
+              "value": "GA1.2.450382358.1589211920",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "_gid",
+              "value": "GA1.2.1306027155.1589211920",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "luin",
+              "value": "o1007005809",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "lskey",
+              "value": "00010000bc872060f5c4268597a1bcdd927defbc876b8814900e802931585041934b0371b839c49025d20c82",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.ref",
+              "value": "sites",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.refid",
+              "value": "02378637",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "ww_rtkey",
+              "value": "9815042591",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wxpay.vid",
+              "value": "1688852717941380",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wxpay.corpid",
+              "value": "1970325072135883",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.d2st",
+              "value": "a1065792",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.sid",
+              "value": "HVT5CzAJi5KYlv5fj0n7pso3nbv1cT7DUv6ycdEhr1UoTVn4980Z0Qhhk6tjYRG3",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.ltype",
+              "value": "1",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.vst",
+              "value": "f_Xztmw2pts3BHMEY-yLB2UAiV26hAdUwwu3cRh4c8IUlDfve1AM1R1hkcZHQVKWzAp5CmLU3VP-XbRY_pto69lLos-ey8EHWHJtbGqJzl6ii0pzKF1Kd7rhha6WvPHpl3kGqeF-EhfGlnqh9qxjyu7EnpZz1RGZYrnno5nokbCLffJtAv4njz-qGcD08IdANkXq-skFJDNAHI7xkLpRL8UndkBWQdS8KQ9tDUxSa5eiaVwn1RE3WXvR9duVP2eobpdBw4YhaJC8H3Jt16IXQQ",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.vid",
+              "value": "1688852717941380",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "wwrtx.logined",
+              "value": "true",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "status",
+              "value": "200"
+            },
+            {
+              "name": "server",
+              "value": "nginx"
+            },
+            {
+              "name": "date",
+              "value": "Mon, 18 May 2020 03:56:53 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json; charset=UTF-8"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-powered-by",
+              "value": "PHP/7.0.10"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1035,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 749
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.8099999999714491,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.254,
+          "wait": 113.20699999992188,
+          "receive": 0.5010000002130255,
+          "_blocked_queueing": 1.0919999999714491
+        },
+        "serverIPAddress": "[240e:ff:f100:8019::68]",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "send",
+                "scriptId": "6",
+                "url": "https://work.weixin.qq.com/api/devtools/assets/js/jquery-1.11.1.min.js",
+                "lineNumber": 2,
+                "columnNumber": 26509
+              },
+              {
+                "functionName": "ajax",
+                "scriptId": "6",
+                "url": "https://work.weixin.qq.com/api/devtools/assets/js/jquery-1.11.1.min.js",
+                "lineNumber": 2,
+                "columnNumber": 23126
+              },
+              {
+                "functionName": "",
+                "scriptId": "8",
+                "url": "https://work.weixin.qq.com/api/devtools/assets/js/devtool.js",
+                "lineNumber": 139,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "dispatch",
+                "scriptId": "6",
+                "url": "https://work.weixin.qq.com/api/devtools/assets/js/jquery-1.11.1.min.js",
+                "lineNumber": 1,
+                "columnNumber": 17660
+              },
+              {
+                "functionName": "q.handle",
+                "scriptId": "6",
+                "url": "https://work.weixin.qq.com/api/devtools/assets/js/jquery-1.11.1.min.js",
+                "lineNumber": 1,
+                "columnNumber": 14333
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "connection": "2691"
+      }
+    ]
+  }
+}

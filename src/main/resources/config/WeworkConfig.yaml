@@ -1,0 +1,14 @@
+#应用id
+agentId: "1000002"
+#企业id
+corpid: "ww27ee23b64aa0ffc5"
+#secret是企业应用里面用于保障数据安全的“钥匙”
+secret: "l_Qig12B0u5iotquU7dyeYDz949m6uuwWGU4zArPuyY"
+#通讯录id
+contacSecret: "xVgEB2ds59YKKHvWZOTGQfwwISAydOREFQ86ogxPeMs"
+current: test
+env:
+  dve:
+    "qyapi.weixin.qq.com": "qyapi.weixin.qq.com"
+  test:
+    "qyapi.weixin.qq.com": "101.227.162.152"

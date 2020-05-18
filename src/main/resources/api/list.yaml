@@ -1,0 +1,4 @@
+url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+method: get
+query:
+  id: ""
