@@ -15,19 +15,19 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ApiTest {
 
-    @Test
+    //@Test
     void getApiFromHar() {
         Api api = new Api();
         System.out.println(api.getApiFromHar("/api/app.har.json",".*tid=41.*").url);
     }
 
-    @Test
+    //@Test
     void getResponseFromHar() {
         Api api = new Api();
         System.out.println(api.getResponseFromHar("/api/app.har.json",".*tid=41.*",null));
     }
 
-    @Test
+    //@Test
     void mustache() throws IOException {
         HashMap<String, Object> scopes = new HashMap<String, Object>();
         scopes.put("name", "Mustache");

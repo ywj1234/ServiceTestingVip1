@@ -6,12 +6,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class WeworkConfigTest {
 
-    @Test
+    //@Test
     void load() {
         WeworkConfig.load("");
     }
 
-    @Test
+    //@Test
     void getInstance() {
         WeworkConfig.getInstance();
     }

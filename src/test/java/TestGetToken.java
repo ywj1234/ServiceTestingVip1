@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.*;
 
 public class TestGetToken {
 
-    @Test
+    //@Test
     public void testToken(){
        Wework wework = new Wework();
        String token = wework.getWechatToken(WeworkConfig.getInstance().secret);
